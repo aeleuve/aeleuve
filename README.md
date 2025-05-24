@@ -22,3 +22,7 @@ Here are the main languages and technologies I work with:
 * Docker
 * Kubernetes
 * GitLab
+
+# Github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aeleuve&theme=dark)](https://git.io/streak-stats)
