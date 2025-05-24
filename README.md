@@ -1,3 +1,5 @@
+![banner alvaro developer](assets/bannerALVGithub.jpg)
+
 # Hi! I'm Alvaro - Frontend Developer 👋
 
 
