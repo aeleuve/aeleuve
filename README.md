@@ -1,4 +1,4 @@
-![banner alvaro developer](./assets/bannerALVGithub.jpg)
+![banner alvaro developer](/assets/bannerALVGithub.jpeg)
 
 # Hi! I'm Alvaro - Frontend Developer 👋
 
