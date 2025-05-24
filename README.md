@@ -1,6 +1,6 @@
 ![banner alvaro developer](/assets/bannerALVGithub.jpeg)
 
-# Hi! I'm Alvaro - Frontend Developer 👋
+# Hey! I'm Alvaro 👋
 
 
 Hi, I'm Álvaro Ramírez, a software developer primarily focused on frontend development.
